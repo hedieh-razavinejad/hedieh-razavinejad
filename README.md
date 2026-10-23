@@ -5,6 +5,8 @@
   </picture>
 </p>
 
+<img src="wave-divider.svg" width="100%" alt="" />
+
 <h1 align="center">Hedieh Razavinejad</h1>
 
 <p align="center">
@@ -37,7 +39,7 @@ I write down my ideas here and tick them off when they become real.
 
 ### 📊 GitHub Stats
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hedieh-razavinejad&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hedieh-razavinejad&show_icons=true&bg_color=0f172a&title_color=a855f7&text_color=c4b5fd&icon_color=8b5cf6&border_color=312e81" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,100:a855f7&height=100&section=footer" width="100%" alt="footer" />
+<img src="wave-footer.svg" width="100%" alt="" />
