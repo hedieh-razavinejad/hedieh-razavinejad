@@ -2,23 +2,20 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
   <img
-    src="./profile-banner.jpg"
+    src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:0B1120,50:17152F,100:312E81&text=Hedieh%20Razavinejad&fontSize=38&fontColor=F8FAFC&fontAlignY=43&desc=Creative%20Frontend%20Developer&descSize=16&descAlignY=66&animation=fadeIn"
     width="100%"
-    alt="Creative Frontend Developer Banner"
+    alt="Hedieh Razavinejad - Creative Frontend Developer"
   />
 </p>
 
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Creative+Frontend+Developer;Building+with+Vue+3;Designing+Modern+Web+Interfaces"
-    alt="Creative Frontend Developer"
+    alt="Introduction"
   />
 </p>
 
 <p align="center">
-  <a href="https://github.com/hedieh-razavinejad">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <img src="https://img.shields.io/badge/Frontend-Development-7C3AED?style=for-the-badge" alt="Frontend Development" />
   <img src="https://img.shields.io/badge/Vue.js-Learning-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Learning Vue.js" />
 </p>
@@ -38,10 +35,7 @@ I'm a Computer Engineering student passionate about frontend development, creati
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,vue,tailwind,vite,git,github,figma&theme=dark"
-    alt="Technologies and tools"
-  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,tailwind,vite,git,github&theme=dark" alt="HTML, CSS, JavaScript, Vue, Tailwind, Vite, Git and GitHub" />
 </p>
 
 ## 🎯 Currently Learning
@@ -70,8 +64,8 @@ I believe the best way to grow as a developer is by building, experimenting, and
 <!-- ================= FOOTER ================= -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111827,50:312E81,100:7C3AED"
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B1120,50:17152F,100:312E81"
     width="100%"
-    alt="Purple and blue footer"
+    alt="Navy and purple footer"
   />
 </p>
