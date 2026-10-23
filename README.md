@@ -1,148 +1,89 @@
  
-<!-- ==================== HERO ==================== -->
+<!-- HERO -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:070B16,45:17152F,100:312E81&text=Hedieh%20Razavinejad&fontSize=38&fontColor=F8FAFC&fontAlignY=42&desc=CREATIVE%20FRONTEND%20DEVELOPER&descSize=14&descAlignY=63&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080B16,45:19152F,100:4338CA&text=Hedieh%20Razavinejad&fontSize=38&fontColor=FFFFFF&fontAlignY=40&desc=CREATIVE%20FRONTEND%20DEVELOPER&descSize=14&descAlignY=60&animation=fadeIn"
     width="100%"
-    alt="Hedieh Razavinejad | Creative Frontend Developer"
+    alt="Hedieh Razavinejad — Creative Frontend Developer"
   />
 </p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=520&lines=Learning.+Building.+Improving.;From+Ideas+to+Interactive+Experiences;Growing+One+Project+at+a+Time"
-    alt="Learning, building and improving"
-  />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-Always%20Learning-8B5CF6?style=flat-square&labelColor=0B1020" alt="Always learning" />
-  <img src="https://img.shields.io/badge/FOCUS-Frontend%20Development-42B883?style=flat-square&labelColor=0B1020" alt="Frontend development" />
-  <img src="https://img.shields.io/badge/MINDSET-Progress%20Over%20Perfection-A78BFA?style=flat-square&labelColor=0B1020" alt="Progress over perfection" />
-</p>
-
----
-
-## `01` — A Little About Me
-
-Hey! I'm a Computer Engineering student exploring the world of frontend development.
-
-I love the intersection of **code, creativity, and visual design** — where a simple idea becomes an interactive experience.
-
-I'm not here to pretend I've mastered everything. I'm here to learn deeply, build consistently, and become better with every step.
-
-- 🎨 Interested in creative interfaces and thoughtful design
-- 🧩 Working on my JavaScript logic and problem-solving skills
-- 🟢 Learning and building with Vue 3
-- ✨ Curious about animation, interaction, and immersive web experiences
-- 🚀 Building my skills one experiment at a time
-
----
-
-## `02` — My Learning Journey
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/01-FOUNDATIONS-64748B?style=for-the-badge"
-    alt="Foundations"
-  />
-</p>
-
-<p align="center">
-  <b>HTML · CSS</b>
-  <br />
-  Building the foundation of the web.
-</p>
-
-<p align="center">↓</p>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/02-IN%20PROGRESS-42B883?style=for-the-badge"
-    alt="Currently learning"
-  />
-</p>
-
-<p align="center">
-  <b>JavaScript · Vue 3</b>
-  <br />
-  Strengthening programming logic and learning to build component-based interfaces.
-</p>
-
-<p align="center">↓</p>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/03-NEXT%20CHAPTER-8B5CF6?style=for-the-badge"
-    alt="Future learning"
-  />
-</p>
-
-<p align="center">
-  <b>GSAP · Three.js</b>
-  <br />
-  Exploring motion, interactive animation, and 3D experiences for the web.
-</p>
-
----
-
-## `03` — My Toolkit
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,vue,tailwind,git,github&theme=dark"
-    alt="HTML, CSS, JavaScript, Vue, Tailwind CSS, Git and GitHub"
-  />
-</p>
-
-<p align="center">
-  <sub>Tools I use, practice with, and continue to learn.</sub>
-</p>
-
----
-
-## `04` — What's Next?
-
-I'm interested in taking frontend development beyond static layouts.
-
-My next areas of exploration include:
-
-- **GSAP** — creating expressive, smooth web animations
-- **Three.js** — experimenting with interactive 3D scenes
-- **Creative Development** — combining code, motion, and visual storytelling
-- **Advanced UI Interactions** — making interfaces feel more responsive and engaging
-
-These are future learning goals, not claims of expertise. I'll update this section as I make progress.
-
----
-
-## `05` — The Way I Learn
-
-> I don't need to know everything today.
-> I just need to understand a little more than I did yesterday.
-
-I believe real progress comes from curiosity, consistency, experimentation, and the willingness to solve problems independently.
-
-Every exercise teaches me something. Every project gives me a new challenge. Every mistake helps me understand the process a little better.
-
-**Still learning. Still building. Still becoming.**
-
----
 
 <p align="center">
   <a href="https://github.com/hedieh-razavinejad">
-    <img
-      src="https://img.shields.io/badge/Follow%20My%20Journey-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF"
-      alt="Follow my journey on GitHub"
-    />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=480&lines=Code+with+curiosity.;Design+with+intention.;Keep+learning.+Keep+creating." alt="Code with curiosity, design with intention" />
   </a>
 </p>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:070B16,50:17152F,100:312E81"
-    width="100%"
-    alt="Decorative gradient footer"
-  />
+  <a href="https://github.com/hedieh-razavinejad">
+    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Frontend-8B5CF6?style=for-the-badge&labelColor=111827" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Always_Learning-42B883?style=for-the-badge&labelColor=111827" alt="Always learning" />
+</p>
+
+---
+
+## ✦ Hello, World!
+
+I'm a Computer Engineering student with a passion for **frontend development, creative design, and interactive digital experiences.**
+
+I enjoy exploring how technology and creativity come together to build interfaces that feel intuitive, distinctive, and meaningful.
+
+I'm continuously learning, experimenting with new ideas, and turning what I learn into practical skills.
+
+---
+
+## ✦ My World
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,tailwind,git,github&theme=dark" alt="Technologies and tools" />
+</p>
+
+<p align="center">
+  <sub>Learning, experimenting, and growing with every step.</sub>
+</p>
+
+---
+
+## ✦ Beyond the Code
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 Creative Design</h3>
+      Exploring visual ideas, modern layouts, and thoughtful interfaces.
+    </td>
+    <td width="50%" valign="top">
+      <h3>💻 Frontend Development</h3>
+      Building my foundations in JavaScript and Vue 3.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✨ Motion & Interaction</h3>
+      Interested in GSAP, smooth animations, and expressive web experiences.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌌 Exploring What's Next</h3>
+      Looking forward to experimenting with Three.js and creative 3D on the web.
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <i>"Curiosity starts the journey. Consistency moves it forward."</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/hedieh-razavinejad?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20GitHub-312E81?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub repositories" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:080B16,50:19152F,100:4338CA" width="100%" alt="Decorative footer" />
 </p>
